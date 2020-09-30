@@ -51,8 +51,7 @@ data_dir=AgeGridInput
 # ---- Files for creating agegrid
 rotation_file=${data_dir}/Global_410-0Ma_Rotations_2019_v3.rot
 ridge_file=${data_dir}/Global_EarthByte_GeeK07_Ridges_2019_v3.gpml
-# isochron_file=${data_dir}/Global_EarthByte_GeeK07_Isochrons_2019_v3.gpml
-isochron_file=${data_dir}/Global_EarthByte_GeeK07_Isochrons_presentday_2019_v3.gpml
+isochron_file=${data_dir}/Global_EarthByte_GeeK07_Isochrons_2019_v3.gpml
 isocob_file=${data_dir}/Global_EarthByte_GeeK07_IsoCOB_2019_v3.gpml
 
 # --- Files only for creating COB mask grid (i.e., if generate_cob_mask_grids=yes)
